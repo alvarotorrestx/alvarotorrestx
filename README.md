@@ -23,7 +23,7 @@ I'm studying Computer Science with concentration in Artificial Intelligence.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotorrestx&layout=compact&theme=holi)
 
 ## 🔗 Connect with Me
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&amp;logo=github&amp;logoColor=white)](https://alvarotorres.dev)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-cyan?style=flat&amp;logo=vite&amp;logoColor=000)](https://alvarotorres.dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvarotorrestx)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alvaro@alvarotorres.dev)
 
